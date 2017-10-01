@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Proyecto1 EDD</string>
+    <string name="app_login">Login</string>
+    <string name="app_registrar">Registrar</string>
+    <string name="app_user">Usuario</string>
+    <string name="app_pass">Password</string>
+    <string name="app_reporte">Reporte</string>
+    <string name="app_cargar">Cargar Archivo</string>
+    <string name="app_crear">Crear Carpeta</string>
+    <string name="app_elimi">Eliminar Carpeta</string>
+    <string name="app_salir">Salir</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/cargar" android:title="@string/app_cargar"></item>
+    <item android:id="@+id/crear" android:title="@string/app_crear"></item>
+    <item android:id="@+id/reporte" android:title="@string/app_reporte"></item>
+    <item android:id="@+id/salir" android:title="@string/app_salir"></item>
+</menu>
